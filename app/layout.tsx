@@ -5,6 +5,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <h1>Hello World!</h1>
       <body>{children}</body>
     </html>
   );
